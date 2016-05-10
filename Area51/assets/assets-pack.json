@@ -1,0 +1,30 @@
+{
+    "level": [
+        {
+            "textureURL": "assets/atlas/myatlas.png",
+            "atlasURL": "assets/atlas/myatlas.json",
+            "format": "TEXTURE_ATLAS_JSON_HASH",
+            "type": "atlas",
+            "key": "myatlas"
+        },
+        {
+            "type": "image",
+            "overwrite": false,
+            "key": "front",
+            "url": "assets/images/front.png"
+        },
+        {
+            "type": "image",
+            "overwrite": false,
+            "key": "backwall",
+            "url": "assets/images/backwall.jpg"
+        }
+    ],
+    "meta": {
+        "app": "Phaser Editor",
+        "copyright": "Arian Fornaris (c) 2015,2016",
+        "generated": "1462608377290",
+        "version": "1.0",
+        "url": "http://phasereditor.boniatillo.com"
+    }
+}
