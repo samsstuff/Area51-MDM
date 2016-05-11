@@ -31,5 +31,5 @@ Sam Riggs
 
 Here is a video of it in action
 
-[area51 video](https://www.youtube.com/watch?v=jcCJkksqFh4)
+[area51 video: click to view it on youtube](https://www.youtube.com/watch?v=jcCJkksqFh4)
 
