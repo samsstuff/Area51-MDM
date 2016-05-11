@@ -29,3 +29,7 @@ Sam Riggs
 
 ![area51screenshot](https://cloud.githubusercontent.com/assets/19275499/15136288/1b81c4b6-164e-11e6-8d1c-80bd45bd9731.jpg)
 
+Here is a video of it in action
+
+![area51 video](https://www.youtube.com/watch?v=jcCJkksqFh4)
+
