@@ -5,9 +5,6 @@ drag the compressed Area51.tar.gz into the window and install it.
 selecct it and it will appear next time you log in.
 Hope you enjoy it.
 
-This software comes "AS IS"
-I am not responsible for anything that goes wrong.
-
 If you have any questions feel free to visit the Linux Mint forum and leave a message there under html5 themes
 https://forums.linuxmint.com/viewtopic.php?f=25&t=126979&sid=5537514612a5333a1b8e423b7265cd9e&start=360
 I'm usually hanging around there or someone else can help you out.
